@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "fe",
     "releaseDate": "1994-11-15",
     "border": "black",
+    "foil": "none",
     "type": "expansion",
     "booster": ["uncommon", "uncommon", "common", "common", "common", "common", "common", "common"],
     "mkm_name": "Fallen Empires",

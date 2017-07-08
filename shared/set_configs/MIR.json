@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "mr",
     "releaseDate": "1996-10-08",
     "border": "black",
+    "foil": "none",
     "type": "expansion",
     "block": "Mirage",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "9e",
     "releaseDate": "2005-07-29",
     "border": "white",
+    "foil": "some",
     "type": "core",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land"],
     "translations": {

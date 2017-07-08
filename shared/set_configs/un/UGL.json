@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "ug",
     "releaseDate": "1998-08-11",
     "border": "silver",
+    "foil": "none",
     "type": "un",
     "booster": ["rare", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "land"],
     "mkm_name": "Unglued",

@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "gp",
     "releaseDate": "2006-02-03",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Ravnica",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "sh",
     "releaseDate": "1998-03-02",
     "border": "black",
+    "foil": "none",
     "type": "expansion",
     "block": "Tempest",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

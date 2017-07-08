@@ -8,6 +8,7 @@
       "isMCISet": true,
       "releaseDate": "2006-01-01",
       "border": "black",
+      "foil": "unknown",
       "type": "promo"
     },
     "SET_CORRECTIONS": [
@@ -23,6 +24,7 @@
       "isMCISet": true,
       "releaseDate": "2008-10-01",
       "border": "black",
+      "foil": "unknown",
       "type": "promo"
     },
     "SET_CORRECTIONS": [

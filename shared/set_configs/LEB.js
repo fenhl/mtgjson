@@ -7,6 +7,7 @@ module.exports.SET = {
     magicCardsInfoCode: "be",
     releaseDate: "1993-10-01",
     border: "black",
+    foil: "none",
     type: "core",
     booster: ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
     mkm_name: "Beta",

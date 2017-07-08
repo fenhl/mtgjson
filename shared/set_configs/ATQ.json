@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "aq",
     "releaseDate": "1994-03-04",
     "border": "black",
+    "foil": "none",
     "type": "expansion",
     "booster": ["uncommon", "uncommon", "common", "common", "common", "common", "common", "common"],
     "mkm_name": "Antiquities",

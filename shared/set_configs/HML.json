@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "hl",
     "releaseDate": "1995-10-14",
     "border": "black",
+    "foil": "none",
     "type": "expansion",
     "booster": [
       ["rare", "uncommon"],

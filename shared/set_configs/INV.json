@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "in",
     "releaseDate": "2000-10-02",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Invasion",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

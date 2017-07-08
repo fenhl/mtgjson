@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "ul",
     "releaseDate": "1999-02-15",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Urza's",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

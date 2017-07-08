@@ -7,6 +7,7 @@ module.exports.SET = {
     magicCardsInfoCode: "un",
     releaseDate: "1993-12-01",
     border: "white",
+    foil: "none",
     type: "core",
     booster: ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
     mkm_name: "Unlimited",

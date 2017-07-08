@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "5dn",
     "releaseDate": "2004-06-04",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Mirrodin",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

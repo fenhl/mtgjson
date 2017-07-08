@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "ia",
     "releaseDate": "1995-06-01",
     "border": "black",
+    "foil": "none",
     "type": "expansion",
     "block": "Ice Age",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

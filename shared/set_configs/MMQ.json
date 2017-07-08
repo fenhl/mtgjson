@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "mm",
     "releaseDate": "1999-10-04",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Masques",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "tr",
     "releaseDate": "2002-02-08",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Odyssey",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

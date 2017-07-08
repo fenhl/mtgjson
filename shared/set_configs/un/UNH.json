@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "uh",
     "releaseDate": "2004-11-20",
     "border": "silver",
+    "foil": "alt",
     "type": "un",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land"],
     "mkm_name": "Unhinged",

@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "itp",
     "releaseDate": "1996-12-31",
     "border": "white",
+    "foil": "none",
     "type": "starter",
     "translations": {
       "de": "Introductory Two-Player Set",

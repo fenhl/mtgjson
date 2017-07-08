@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "ts",
     "releaseDate": "2006-10-06",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Time Spiral",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "timeshifted purple"],

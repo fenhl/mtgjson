@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "p3k",
     "releaseDate": "1999-05-01",
     "border": "white",
+    "foil": "none",
     "type": "starter",
     "booster": ["rare", "uncommon", "uncommon", "common", "common", "common", "common", "common", "land", "land"],
     "translations": {

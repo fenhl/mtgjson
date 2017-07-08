@@ -7,6 +7,7 @@
     "essentialMagicCode": "6",
     "releaseDate": "1995-04-01",
     "border": "white",
+    "foil": "none",
     "type": "core",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
     "translations": {

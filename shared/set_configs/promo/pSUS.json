@@ -7,6 +7,7 @@
     "isMCISet": true,
     "releaseDate": "1999-12-01",
     "border": "black",
+    "foil": "all",
     "type": "promo"
   },
   "SET_CORRECTIONS": [

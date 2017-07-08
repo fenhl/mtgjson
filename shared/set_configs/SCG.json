@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "sc",
     "releaseDate": "2003-05-26",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Onslaught",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

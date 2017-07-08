@@ -6,6 +6,7 @@
     "magicCardsInfoCode": "ps",
     "releaseDate": "2001-02-05",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Invasion",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],

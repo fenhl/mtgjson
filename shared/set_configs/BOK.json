@@ -5,6 +5,7 @@
     "magicCardsInfoCode": "bok",
     "releaseDate": "2005-02-04",
     "border": "black",
+    "foil": "some",
     "type": "expansion",
     "block": "Kamigawa",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
